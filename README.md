@@ -9,9 +9,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 
 You are required to help the manager to predict the right group of the new customers.
 
-## Summary 
-
-Summary
+## Insights
 
 **Gender**
 
