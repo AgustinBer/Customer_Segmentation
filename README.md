@@ -13,7 +13,7 @@ You are required to help the manager to predict the right group of the new custo
 
 Summary
 
-** Gender **
+**Gender**
 
 Segments are almost equally distributed between both genders, with segment D having a higher percentage of males compared to other genders
 
