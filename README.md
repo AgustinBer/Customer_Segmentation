@@ -45,3 +45,7 @@ Segment 'D' has the highest family size, but most segments have small families (
 **Var_1**
 
 In most segments, 'Cat_6' proportion is higher, followed by 'Cat_4'
+
+## Models
+
+Gradient Boosting Classifier 
